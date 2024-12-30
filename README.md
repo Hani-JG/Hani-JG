@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Hanieh!
+# 👋 Hi, I'm Haniyeh!
 ## 🌟 About Me
 - 💻 Mechanical Engineer turned Data Scientist
 - 📊 Passionate about data analysis, machine learning, and problem-solving
@@ -12,10 +12,9 @@
 - **Other:** Financial Forecasting, Marketing Strategy
 
 ## 📂 Projects
-- [Visualization Dashboard](https://github.com/yourusername/project-link): Interactive dashboards created using Tableau
-- [Data Analysis on XYZ Dataset](https://github.com/yourusername/project-link): Insights derived using SQL and Python
-- [PMS Relief Beverage Business Model](https://github.com/yourusername/project-link): Comprehensive business plan for a PMS relief beverage
+- [Online Shop 2024](https://github.com/Hani-JG/Online_Shop_2024): Interactive dashboard created using Power BI
+- [Students Performance in Exam](https://github.com/Hani-JG/Students-Performance-in-Exam): Insights derived using Excel
 
 ## 📫 Contact Me
-- LinkedIn: https://www.linkedin.com/in/haniyeh-jafargholi/
+- LinkedIn: [Haniyeh Jafargholi](https://www.linkedin.com/in/haniyeh-jafargholi/)
 - Email: hjg.jafargholi@gmail.com
