@@ -12,9 +12,10 @@
 - **Other:** Financial Forecasting, Marketing Strategy
 
 ## 📂 Projects
+- [Heart Failure Analysis_Prediction](https://github.com/Hani-JG/Heart_Failure_Analysis_Prediction): Exploratory data analysis with visualizations and machine learning models using Python 
 - [Online Shop 2024](https://github.com/Hani-JG/Online_Shop_2024): Interactive dashboard created using Power BI
 - [Students Performance in Exam](https://github.com/Hani-JG/Students-Performance-in-Exam): Insights derived using Excel
-- [Heart Failure Analysis_Prediction](https://github.com/Hani-JG/Heart_Failure_Analysis_Prediction): Exploratory data analysis with visualizations and machine learning models using Python 
+
 
 
 ## 📫 Contact Me
